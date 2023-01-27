@@ -1,0 +1,33 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 140px auto;
+}
+
+.App input{
+    width: 300px;
+    margin: 30px auto;
+    height: 40px;
+    padding-left: 10px;
+}
+
+.App button{
+    width: 200px;
+    margin: auto;
+    height: 40px;
+}
+
+.App h1{
+    margin: 10px auto;
+}
+
+.App image{
+    width: 400px;
+    margin-top: 50px;
+}
+.hea{
+    display: flex;
+    align-items: center;
+}
+.modi{width: 130px;}
